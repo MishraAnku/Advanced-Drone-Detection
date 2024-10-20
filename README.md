@@ -2,15 +2,12 @@
 
 This project demonstrates real-time drone detection using YOLOv5 and OpenCV. It detects drones in real-time and displays a warning when a drone is detected inside or near a defined rectangle.
 
-![proj_4](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System/assets/76219349/dd32fa52-d6e9-4967-ae02-57ee70070a66)
-
 ## Features
 
 - Real-time drone detection using YOLOv5
 - Interactive rectangle creation and adjustment
 - Warning message displayed when a drone is detected inside or near the rectangle
 
-![df002233-cd13-44c0-b5f8-51623015146f](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System/assets/76219349/53c582dc-8a31-47a6-bf81-71bf8e7409f0)
 
 ## Benefits
 1. Enhanced Security
@@ -30,10 +27,6 @@ You can access the open-source codebase for customization and integration into e
 
 6. Scalable and Cost-effective
 Efficient utilization of resources with a balance of accuracy and performance, resulting in cost savings.
-
-![3c146082-7f6b-4c0c-8cc2-ad7728771c87](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System/assets/76219349/31d8ac4e-1753-44be-91b5-c801473fce93)
-
-![d22ec15f-7f61-4053-b7cd-7402ece65116](https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System/assets/76219349/85b413e1-67cd-4b89-bde7-70e6fe6ec8f5)
 
 ## About the Dataset
 
@@ -58,7 +51,7 @@ The dataset used in this project can be downloaded from [here.](https://universe
 
 1. Clone the repository:
 
-   - git clone https://github.com/Ayushkumawat/Advanced-Aerial-Drone-Detection-System
+    - https://github.com/MishraAnku/Advanced-Drone-Detection/edit/main/README.md
 
 2. Install the required Python libraries:
 
